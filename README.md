@@ -1,6 +1,6 @@
 
 # SoftUni Courses
-Courses I've completed during my studies @ SoftwareUniversity
+Courses I've completed and certificates I've obtained during my studies @ SoftwareUniversity
 # Python Basics
 ![Programming Basics](https://user-images.githubusercontent.com/113101261/189129965-132d9cbb-f2cd-48e6-9fea-f85619b4df32.jpg)
 # Python Fundamentals
