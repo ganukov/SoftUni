@@ -2,78 +2,78 @@
 # SoftUni Courses
 Courses I've completed and certificates I've obtained during my studies @ SoftwareUniversity
 # Programming Basics
-1. First Steps In Coding
+1. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">First Steps In Coding</a>
 
-2. Conditional Statements
+2. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">Conditional Statements</a>
 
-3. Nested Conditional Statements
+3. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">Nested Conditional Statements</a>
 
-4. For Loop
+4. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">For Loop</a>
 
-5. While Loop
+5. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">While Loop</a>
 
-6. Nested Loops
+6. <a href="https://github.com/ganukov/SoftUni/tree/main/Basics" class="button">Nested Loops</a>
 
-<a href="https://user-images.githubusercontent.com/113101261/189129965-132d9cbb-f2cd-48e6-9fea-f85619b4df32.jpg" class="button">Certificate</a>
+<a href="https://user-images.githubusercontent.com/113101261/189129965-132d9cbb-f2cd-48e6-9fea-f85619b4df32.jpg" class="button">Graduation Certificate</a>
 # Programming Fundamentals
-1. Basic Syntax
+1. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Basic%20syntax%2Cconditional%20statements%2Cloops" class="button">Basic Syntax</a>
 
-2. Data Types and Variables
+2. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Data%20Types%20and%20Variables" class="button">Data Types and Variables</a>
 
-3. Lists-Basics
+3. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Lists_basics" class="button">Lists-Basics</a>
 
-4. Lists-Advanced
+4. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Lists_advanced" class="button">Lists-Advanced</a>
 
-5. Dictionaries
+5. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Dictionaries" class="button">Dictionaries</a>
 
-6. Functions
+6. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Functions" class="button">Functions</a>
 
-7. Text Processing
+7. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/String_Processing" class="button">Text Processing</a>
 
-8. Regular Expressions
+8. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Regular%20expressions(RegEx)" class="button">Regular Expressions</a>
 
-9. Objects and Classes
+9. <a href="https://github.com/ganukov/SoftUni/tree/main/Fundamentals/Classes_and_Objects" class="button">Objects and Classes</a>
 
-<a href="https://user-images.githubusercontent.com/113101261/189130139-8cb97fda-2ab0-4d7d-8499-05c80c25cba4.jpg">Certificate</a>
+<a href="https://user-images.githubusercontent.com/113101261/189130139-8cb97fda-2ab0-4d7d-8499-05c80c25cba4.jpg">Graduation Certificate</a>
 # Python Advanced
-1. Stacks and Queues
+1. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced/Stacks_and_queues_exercise" class="button">Stacks and Queues</a>
  
-2. Tuples and Sets
+2. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced/Tuples_and_Sets" class="button">Tuples and Sets</a>
  
-3. Multidimentional Lists
+3. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced/Multidimentional_Lists" class="button">Multidimentional Lists</a>
  
-4. Functions Advanced
+4. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced/Functions" class="button">Functions Advanced</a>
  
-5. Error Handling
+5. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced" class="button">Error Handling</a>
  
-6. File Handling
+6. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced" class="button">File Handling</a>
  
-7. Modules
+7. <a href="https://github.com/ganukov/SoftUni/tree/main/Advanced" class="button">Modules</a>
  
-<a href="https://user-images.githubusercontent.com/113101261/189130929-8e0a9992-e968-4e2c-8e17-a9a661a0d75b.jpeg">Certificate</a>
+<a href="https://user-images.githubusercontent.com/113101261/189130929-8e0a9992-e968-4e2c-8e17-a9a661a0d75b.jpeg">Graduation Certificate</a>
 # Python OOP
-1. First steps in OOP
+1. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/First_steps_in_OOP" class="button">First steps in OOP
 
-2. Classes and objects
+2. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Classes_and_Objects" class="button">Classes and objects</a>
  
-3. Inheritance
+3. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Inheritance" class="button">Inheritance</a>
 
-4. Encapsulation
+4. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Encapsulation" class="button">Encapsulation</a>
  
-5. Polymorphism and abstraction
+5. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Polymorphism_and_Abstraction" class="button">Polymorphism and abstraction</a>
  
-6. Static and class methods
+6. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Static_and_Class_Methods" class="button">Static and class methods</a>
 
-7. SOLID principles
+7. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/SOLID%20LAB" class="button">SOLID principles</a>
  
-8. Iterators and generators
+8. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/Iterators_and_generators" class="button">Iterators and generators</a>
 
-9. Decorators
+9. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming" class="button">Decorators</a>
 
-10. Unit testing
+10. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming/UNIT_TESTING" class="button">Unit testing</a>
 
-11. Desing Patterns
+11. <a href="https://github.com/ganukov/SoftUni/tree/main/Object_oriented_programming" class="button">Desing Patterns</a>
 
 
-<a href="https://user-images.githubusercontent.com/113101261/189131014-c97db139-20c6-4277-ad29-7cec67c24e63.jpeg">Certificate</a>
+<a href="https://user-images.githubusercontent.com/113101261/189131014-c97db139-20c6-4277-ad29-7cec67c24e63.jpeg">Graduation Certificate</a>
 
